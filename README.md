@@ -1,6 +1,6 @@
 ### Introduction
 - 👋 Hi, I’m @trung12368
-- 👀 I’m interested in software development and machine learning
+- 👀 I’m looking for opportunities as a software developer and I have a strong interest in data analysis.
 - 🌱 I’m currently pursuing Bachelor of Commerce/Science majoring in Information System, International Business and Computer Science at The University of Auckland
 
 ### My social media:
